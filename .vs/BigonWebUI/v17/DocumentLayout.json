@@ -1,7 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\ELViN\\Desktop\\BigOn\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{10AE55ED-34F1-4770-925E-D17968A4103E}|BigonWebUI\\BigonApp.WebUI.csproj|c:\\users\\elvin\\desktop\\bigon\\bigonwebui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10AE55ED-34F1-4770-925E-D17968A4103E}|BigonWebUI\\BigonApp.WebUI.csproj|solutionrelative:bigonwebui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +14,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ELViN\\Desktop\\BigOn\\BigonWebUI\\Program.cs",
+              "RelativeDocumentMoniker": "BigonWebUI\\Program.cs",
+              "ToolTip": "C:\\Users\\ELViN\\Desktop\\BigOn\\BigonWebUI\\Program.cs",
+              "RelativeToolTip": "BigonWebUI\\Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACQAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T09:27:23.875Z",
+              "EditorCaption": ""
             }
           ]
         }
