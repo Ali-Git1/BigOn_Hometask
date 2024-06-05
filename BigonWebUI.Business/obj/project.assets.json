@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ELViN\\Desktop\\BigOn\\BigonWebUI.Business\\BigonApp.Business.csproj",
+      "projectUniqueName": "C:\\Users\\ELViN\\source\\repos\\BigOn\\BigonWebUI.Business\\BigonApp.Business.csproj",
       "projectName": "BigonApp.Business",
-      "projectPath": "C:\\Users\\ELViN\\Desktop\\BigOn\\BigonWebUI.Business\\BigonApp.Business.csproj",
+      "projectPath": "C:\\Users\\ELViN\\source\\repos\\BigOn\\BigonWebUI.Business\\BigonApp.Business.csproj",
       "packagesPath": "C:\\Users\\ELViN\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ELViN\\Desktop\\BigOn\\BigonWebUI.Business\\obj\\",
+      "outputPath": "C:\\Users\\ELViN\\source\\repos\\BigOn\\BigonWebUI.Business\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ELViN\\AppData\\Roaming\\NuGet\\NuGet.Config",

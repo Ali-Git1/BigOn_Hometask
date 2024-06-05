@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ELViN\\Desktop\\BigOn\\BigonWebUI.Data\\BigonApp.Data.csproj": {}
+    "C:\\Users\\ELViN\\source\\repos\\BigOn\\BigonWebUI.Data\\BigonApp.Data.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ELViN\\Desktop\\BigOn\\BigonWebUI.Data\\BigonApp.Data.csproj": {
+    "C:\\Users\\ELViN\\source\\repos\\BigOn\\BigonWebUI.Data\\BigonApp.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ELViN\\Desktop\\BigOn\\BigonWebUI.Data\\BigonApp.Data.csproj",
+        "projectUniqueName": "C:\\Users\\ELViN\\source\\repos\\BigOn\\BigonWebUI.Data\\BigonApp.Data.csproj",
         "projectName": "BigonApp.Data",
-        "projectPath": "C:\\Users\\ELViN\\Desktop\\BigOn\\BigonWebUI.Data\\BigonApp.Data.csproj",
+        "projectPath": "C:\\Users\\ELViN\\source\\repos\\BigOn\\BigonWebUI.Data\\BigonApp.Data.csproj",
         "packagesPath": "C:\\Users\\ELViN\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ELViN\\Desktop\\BigOn\\BigonWebUI.Data\\obj\\",
+        "outputPath": "C:\\Users\\ELViN\\source\\repos\\BigOn\\BigonWebUI.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ELViN\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\ELViN\\Desktop\\BigOn\\BigonWebUI.Infrastructure\\BigonApp.Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\ELViN\\Desktop\\BigOn\\BigonWebUI.Infrastructure\\BigonApp.Infrastructure.csproj"
+              "C:\\Users\\ELViN\\source\\repos\\BigOn\\BigonWebUI.Infrastructure\\BigonApp.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\ELViN\\source\\repos\\BigOn\\BigonWebUI.Infrastructure\\BigonApp.Infrastructure.csproj"
               }
             }
           }
@@ -90,14 +90,14 @@
         }
       }
     },
-    "C:\\Users\\ELViN\\Desktop\\BigOn\\BigonWebUI.Infrastructure\\BigonApp.Infrastructure.csproj": {
+    "C:\\Users\\ELViN\\source\\repos\\BigOn\\BigonWebUI.Infrastructure\\BigonApp.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ELViN\\Desktop\\BigOn\\BigonWebUI.Infrastructure\\BigonApp.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\ELViN\\source\\repos\\BigOn\\BigonWebUI.Infrastructure\\BigonApp.Infrastructure.csproj",
         "projectName": "BigonApp.Infrastructure",
-        "projectPath": "C:\\Users\\ELViN\\Desktop\\BigOn\\BigonWebUI.Infrastructure\\BigonApp.Infrastructure.csproj",
+        "projectPath": "C:\\Users\\ELViN\\source\\repos\\BigOn\\BigonWebUI.Infrastructure\\BigonApp.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\ELViN\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ELViN\\Desktop\\BigOn\\BigonWebUI.Infrastructure\\obj\\",
+        "outputPath": "C:\\Users\\ELViN\\source\\repos\\BigOn\\BigonWebUI.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ELViN\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -131,6 +131,16 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.5, )"
+            },
             "Microsoft.Extensions.Options": {
               "target": "Package",
               "version": "[8.0.0, )"

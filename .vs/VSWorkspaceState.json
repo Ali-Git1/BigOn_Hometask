@@ -1,7 +1,15 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\BigonWebUI",
+    "\\BigonWebUI\\Areas",
+    "\\BigonWebUI\\Areas\\Admin",
+    "\\BigonWebUI\\Areas\\Admin\\Controllers",
+    "\\BigonWebUI\\Areas\\Admin\\Views",
+    "\\BigonWebUI\\Areas\\Admin\\Views\\Color",
+    "\\BigonWebUI\\Areas\\Admin\\Views\\Shared",
+    "\\BigonWebUI\\Areas\\Admin\\Views\\Tags"
   ],
-  "SelectedNode": "\\BigonWebUI.sln",
+  "SelectedNode": "\\BigonWebUI\\Areas\\Admin\\Views\\Color\\Index.cshtml",
   "PreviewInSolutionExplorer": false
 }

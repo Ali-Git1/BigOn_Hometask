@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nlMfhJb7RNiYPOkUTyQMSe66bcdyH225UAjuj4HU67nxW6BQcW3YwfCB7sW7FrZA3ur++VU2Z9PNk92w4cWyJw==",
+  "dgSpecHash": "JvOm0AQaL8VHgwJPShxTJOUrbhu+3c9LDoIM3jACL0vb3dB32wjfL8/SMYSTydyzw0B456ClOisEA67iPB0IMw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ELViN\\Desktop\\BigOn\\BigonWebUI.Data\\BigonApp.Data.csproj",
+  "projectFilePath": "C:\\Users\\ELViN\\source\\repos\\BigOn\\BigonWebUI.Data\\BigonApp.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ELViN\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\ELViN\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
