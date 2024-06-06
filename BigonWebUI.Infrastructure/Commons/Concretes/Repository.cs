@@ -29,6 +29,8 @@ namespace BigonApp.Infrastructure.Commons.Concretes
 
         public T Edit(T model)
         {
+            _table.Entry(model).State = EntityState.Modified;
+            Save();
             return model;
         }
 

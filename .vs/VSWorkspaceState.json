@@ -2,14 +2,17 @@
   "ExpandedNodes": [
     "",
     "\\BigonWebUI",
+    "\\BigonWebUI.Data",
+    "\\BigonWebUI.Data\\Persistences",
+    "\\BigonWebUI.Infrastructure",
+    "\\BigonWebUI.Infrastructure\\Commons",
+    "\\BigonWebUI.Infrastructure\\Commons\\Abstracts",
     "\\BigonWebUI\\Areas",
     "\\BigonWebUI\\Areas\\Admin",
-    "\\BigonWebUI\\Areas\\Admin\\Controllers",
     "\\BigonWebUI\\Areas\\Admin\\Views",
-    "\\BigonWebUI\\Areas\\Admin\\Views\\Color",
     "\\BigonWebUI\\Areas\\Admin\\Views\\Shared",
     "\\BigonWebUI\\Areas\\Admin\\Views\\Tags"
   ],
-  "SelectedNode": "\\BigonWebUI\\Areas\\Admin\\Views\\Color\\Index.cshtml",
+  "SelectedNode": "\\BigonWebUI.Data\\Persistences\\DataContext.cs",
   "PreviewInSolutionExplorer": false
 }

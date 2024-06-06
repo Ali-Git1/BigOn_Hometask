@@ -1,0 +1,16 @@
+C:\Users\ELViN\source\repos\BigOn\BigonWebUI.Business\bin\Debug\net8.0\BigonApp.Business.deps.json
+C:\Users\ELViN\source\repos\BigOn\BigonWebUI.Business\bin\Debug\net8.0\BigonApp.Business.dll
+C:\Users\ELViN\source\repos\BigOn\BigonWebUI.Business\bin\Debug\net8.0\BigonApp.Business.pdb
+C:\Users\ELViN\source\repos\BigOn\BigonWebUI.Business\bin\Debug\net8.0\BigonApp.Infrastructure.dll
+C:\Users\ELViN\source\repos\BigOn\BigonWebUI.Business\bin\Debug\net8.0\BigonApp.Infrastructure.pdb
+C:\Users\ELViN\source\repos\BigOn\BigonWebUI.Business\obj\Debug\net8.0\BigonApp.Business.csproj.AssemblyReference.cache
+C:\Users\ELViN\source\repos\BigOn\BigonWebUI.Business\obj\Debug\net8.0\BigonApp.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ELViN\source\repos\BigOn\BigonWebUI.Business\obj\Debug\net8.0\BigonApp.Business.AssemblyInfoInputs.cache
+C:\Users\ELViN\source\repos\BigOn\BigonWebUI.Business\obj\Debug\net8.0\BigonApp.Business.AssemblyInfo.cs
+C:\Users\ELViN\source\repos\BigOn\BigonWebUI.Business\obj\Debug\net8.0\BigonApp.Business.csproj.CoreCompileInputs.cache
+C:\Users\ELViN\source\repos\BigOn\BigonWebUI.Business\obj\Debug\net8.0\BigonApp.Business.sourcelink.json
+C:\Users\ELViN\source\repos\BigOn\BigonWebUI.Business\obj\Debug\net8.0\BigonApp.B4EE0A07.Up2Date
+C:\Users\ELViN\source\repos\BigOn\BigonWebUI.Business\obj\Debug\net8.0\BigonApp.Business.dll
+C:\Users\ELViN\source\repos\BigOn\BigonWebUI.Business\obj\Debug\net8.0\refint\BigonApp.Business.dll
+C:\Users\ELViN\source\repos\BigOn\BigonWebUI.Business\obj\Debug\net8.0\BigonApp.Business.pdb
+C:\Users\ELViN\source\repos\BigOn\BigonWebUI.Business\obj\Debug\net8.0\ref\BigonApp.Business.dll
