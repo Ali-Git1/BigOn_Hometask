@@ -87,6 +87,10 @@ namespace BigonApp.Models
 
         public DbSet<Manufacture> Manufactures { get; set; }
         public DbSet<Subscriber> Subscribers { get; set; }
+        public DbSet<Category> Categories { get; set; }
+
+        public DbSet<BlogPost> blogPosts { get; set; }
+
 
     }
 }

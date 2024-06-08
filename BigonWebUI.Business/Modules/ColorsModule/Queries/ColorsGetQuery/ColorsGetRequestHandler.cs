@@ -14,7 +14,7 @@ namespace BigonApp.Business.Modules.ColorsModule.Queries.ColorsGetQuery
         }
         public async Task<Color> Handle(ColorsGetRequest request, CancellationToken cancellationToken)
         {
-           return _colorRepository.Get(e=>e.Id==request.Id&e.DeletedBy==null);
+           return _colorRepository.Get(e=>e.Id==request.Id && e.DeletedBy==null);
 
         }
     }

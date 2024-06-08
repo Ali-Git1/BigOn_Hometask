@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BigonApp.Business")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+01e3c0ebd60e6f6f75c6045237bcbcfd58f558bc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bf2bda0501bc502fb344db3afb3df0e20eeee22f")]
 [assembly: System.Reflection.AssemblyProductAttribute("BigonApp.Business")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BigonApp.Business")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

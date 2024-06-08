@@ -12,12 +12,26 @@ namespace BigonApp.Infrastructure.Services.Concretes
 
         public EmailServices(IOptions<EmailOptions> options)
         {
-            _options = options.Value;
+            //_options = options.Value;
 
-            Host = _options.SmtpServer;
-            Port = _options.SmtpPort;
-            EnableSsl = true;
-            Credentials = new NetworkCredential(_options.FromAddress, _options.Password);
+            //Host = _options.SmtpServer;
+            //Port = _options.SmtpPort;
+            //EnableSsl = true;
+            //Credentials = new NetworkCredential(_options.FromAddress, _options.Password);
+
+            if (_options == null || _options.SmtpServer == null)
+            {
+                Console.WriteLine("SMTP server configuration is missing or invalid.");
+            }
+            else
+            {
+                _options = options.Value;
+
+                Host = _options.SmtpServer;
+                Port = _options.SmtpPort;
+                EnableSsl = true;
+                Credentials = new NetworkCredential(_options.FromAddress, _options.Password);
+            }
         }
 
         public async Task<bool> SendMailAsync(string to, string subject, string body)
@@ -32,7 +46,7 @@ namespace BigonApp.Infrastructure.Services.Concretes
                     message.From = new MailAddress(_options.FromAddress, _options.FromName);
                     message.Body = body;
 
-                    await SendMailAsync(message);
+                    await base.SendMailAsync(message); 
                 }
             }
             catch (Exception)
