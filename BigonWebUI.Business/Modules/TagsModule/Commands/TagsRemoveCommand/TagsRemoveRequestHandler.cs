@@ -25,7 +25,7 @@ namespace BigonApp.Business.Modules.TagsModule.Commands.TagsRemoveCommand
 
             _tagRepository.Remove(color);
 
-            return _tagRepository.GetAll(x => x.DeletedBy == null);
+            return await _tagRepository.GetAll(x => x.DeletedBy == null);
         }
     }
 }

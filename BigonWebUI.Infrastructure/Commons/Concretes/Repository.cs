@@ -46,14 +46,14 @@ namespace BigonApp.Infrastructure.Commons.Concretes
             return model;
         }
 
-        public IEnumerable<T> GetAll(Expression<Func<T, bool>> predicate = null)
+        public async Task<IEnumerable<T>> GetAll(Expression<Func<T, bool>> predicate = null)
         {
             if (predicate != null)
             {
-                return _table.Where(predicate).ToList();
+                return await _table.Where(predicate).ToListAsync();
             }
 
-            return _table.ToList();
+            return await  _table.ToListAsync();
         }
 
         public void Remove(T model)

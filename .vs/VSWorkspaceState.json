@@ -2,17 +2,16 @@
   "ExpandedNodes": [
     "",
     "\\BigonWebUI",
-    "\\BigonWebUI.Data",
-    "\\BigonWebUI.Data\\Persistences",
-    "\\BigonWebUI.Data\\Persistences\\Configurations",
+    "\\BigonWebUI.Business",
+    "\\BigonWebUI.Business\\Modules",
+    "\\BigonWebUI.Business\\Modules\\BlogPostsModule",
+    "\\BigonWebUI.Business\\Modules\\BlogPostsModule\\Commands",
+    "\\BigonWebUI.Business\\Modules\\BlogPostsModule\\Commands\\BlogPostEdit",
     "\\BigonWebUI\\Areas",
     "\\BigonWebUI\\Areas\\Admin",
-    "\\BigonWebUI\\Areas\\Admin\\Controllers",
     "\\BigonWebUI\\Areas\\Admin\\Views",
-    "\\BigonWebUI\\Areas\\Admin\\Views\\BlogPosts",
-    "\\BigonWebUI\\Areas\\Admin\\Views\\Shared",
     "\\BigonWebUI\\Areas\\Admin\\Views\\Tags"
   ],
-  "SelectedNode": "\\BigonWebUI\\Program.cs",
+  "SelectedNode": "\\BigonWebUI.Business\\Modules\\BlogPostsModule\\Commands\\BlogPostEdit\\BlogPostEditRequestHandler.cs",
   "PreviewInSolutionExplorer": false
 }

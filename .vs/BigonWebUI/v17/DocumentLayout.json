@@ -1,20 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\ELViN\\source\\repos\\BigOn\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{10AE55ED-34F1-4770-925E-D17968A4103E}|BigonWebUI\\BigonApp.WebUI.csproj|c:\\users\\elvin\\source\\repos\\bigon\\bigonwebui\\areas\\admin\\controllers\\blogpostscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{10AE55ED-34F1-4770-925E-D17968A4103E}|BigonWebUI\\BigonApp.WebUI.csproj|solutionrelative:bigonwebui\\areas\\admin\\controllers\\blogpostscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C64FD791-4DC1-459E-ABA6-152E49D31F7C}|BigonWebUI.Business\\BigonApp.Business.csproj|c:\\users\\elvin\\source\\repos\\bigon\\bigonwebui.business\\modules\\blogpostsmodule\\queries\\blogpostgetall\\blogpostgetalldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C64FD791-4DC1-459E-ABA6-152E49D31F7C}|BigonWebUI.Business\\BigonApp.Business.csproj|solutionrelative:bigonwebui.business\\modules\\blogpostsmodule\\queries\\blogpostgetall\\blogpostgetalldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{10AE55ED-34F1-4770-925E-D17968A4103E}|BigonWebUI\\BigonApp.WebUI.csproj|c:\\users\\elvin\\source\\repos\\bigon\\bigonwebui\\areas\\admin\\views\\blogposts\\_body.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{10AE55ED-34F1-4770-925E-D17968A4103E}|BigonWebUI\\BigonApp.WebUI.csproj|solutionrelative:bigonwebui\\areas\\admin\\views\\blogposts\\_body.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -22,50 +9,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "BlogPostGetAllDto.cs",
-              "DocumentMoniker": "C:\\Users\\ELViN\\source\\repos\\BigOn\\BigonWebUI.Business\\Modules\\BlogPostsModule\\Queries\\BlogPostGetAll\\BlogPostGetAllDto.cs",
-              "RelativeDocumentMoniker": "BigonWebUI.Business\\Modules\\BlogPostsModule\\Queries\\BlogPostGetAll\\BlogPostGetAllDto.cs",
-              "ToolTip": "C:\\Users\\ELViN\\source\\repos\\BigOn\\BigonWebUI.Business\\Modules\\BlogPostsModule\\Queries\\BlogPostGetAll\\BlogPostGetAllDto.cs",
-              "RelativeToolTip": "BigonWebUI.Business\\Modules\\BlogPostsModule\\Queries\\BlogPostGetAll\\BlogPostGetAllDto.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-08T13:43:29.224Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "_Body.cshtml",
-              "DocumentMoniker": "C:\\Users\\ELViN\\source\\repos\\BigOn\\BigonWebUI\\Areas\\Admin\\Views\\BlogPosts\\_Body.cshtml",
-              "RelativeDocumentMoniker": "BigonWebUI\\Areas\\Admin\\Views\\BlogPosts\\_Body.cshtml",
-              "ToolTip": "C:\\Users\\ELViN\\source\\repos\\BigOn\\BigonWebUI\\Areas\\Admin\\Views\\BlogPosts\\_Body.cshtml",
-              "RelativeToolTip": "BigonWebUI\\Areas\\Admin\\Views\\BlogPosts\\_Body.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAiAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-08T13:38:45.157Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "BlogPostsController.cs",
-              "DocumentMoniker": "C:\\Users\\ELViN\\source\\repos\\BigOn\\BigonWebUI\\Areas\\Admin\\Controllers\\BlogPostsController.cs",
-              "RelativeDocumentMoniker": "BigonWebUI\\Areas\\Admin\\Controllers\\BlogPostsController.cs",
-              "ToolTip": "C:\\Users\\ELViN\\source\\repos\\BigOn\\BigonWebUI\\Areas\\Admin\\Controllers\\BlogPostsController.cs",
-              "RelativeToolTip": "BigonWebUI\\Areas\\Admin\\Controllers\\BlogPostsController.cs",
-              "ViewState": "AQIAACIAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-08T13:38:35.947Z",
-              "EditorCaption": ""
             }
           ]
         }
