@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace BigonApp.Business.Modules.BlogPostsModule.Queries.BlogPostGetAll
 {
-    public class BlogPostGetAllRequest : IRequest<IEnumerable<BlogPostGetAllDto>>
+    public class BlogPostGetAllRequest : IRequest<IEnumerable<CategoriesGetAllDto>>
     {
     }
 }

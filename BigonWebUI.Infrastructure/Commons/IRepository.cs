@@ -9,20 +9,15 @@ namespace BigonApp.Infrastructure.Commons
 {
     public interface IRepository<T> where T : class 
     {
-         Task<IEnumerable<T>> GetAll(Expression<Func<T, bool>> predicate = null);
-
+         IQueryable<T> GetAll(Expression<Func<T, bool>> predicate = null);
 
          T Get(Expression<Func<T, bool>> predicate = null);
 
-
          T Add(T model);
-
 
          T Edit(T model);
 
-
          void Remove(T model);
-
 
          int Save();
         

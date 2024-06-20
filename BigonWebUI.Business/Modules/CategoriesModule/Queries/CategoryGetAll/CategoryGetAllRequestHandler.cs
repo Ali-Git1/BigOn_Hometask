@@ -19,7 +19,7 @@ namespace BigonApp.Business.Modules.CategoriesModule.Queries.CategoryGetAll
         }
         public async Task<IEnumerable<Category>> Handle(CategoryGetAllRequest request, CancellationToken cancellationToken)
         {
-             return await _categoryRepository.GetAll(x => x.DeletedBy == null);
+             return _categoryRepository.GetAll(x => x.DeletedBy == null).ToList();
         }
     }
 }

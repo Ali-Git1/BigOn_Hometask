@@ -10,13 +10,13 @@ using System.Threading.Tasks;
 
 namespace BigonApp.Business.Modules.TagsModule.Commands.TagsRemoveCommand
 {
-    internal class TagsRemoveRequestHandler: IRequestHandler<TagsRemoveRequest, IEnumerable<Tag>>
+    internal class TagsRemoveRequestHandler : IRequestHandler<TagsRemoveRequest, IEnumerable<Tag>>
     {
         private readonly ITagRepository _tagRepository;
 
         public TagsRemoveRequestHandler(ITagRepository tagRepository)
         {
-           _tagRepository = tagRepository;
+            _tagRepository = tagRepository;
         }
 
         public async Task<IEnumerable<Tag>> Handle(TagsRemoveRequest request, CancellationToken cancellationToken)
@@ -25,7 +25,7 @@ namespace BigonApp.Business.Modules.TagsModule.Commands.TagsRemoveCommand
 
             _tagRepository.Remove(color);
 
-            return await _tagRepository.GetAll(x => x.DeletedBy == null);
+            return  _tagRepository.GetAll(x => x.DeletedBy == null);
         }
     }
 }

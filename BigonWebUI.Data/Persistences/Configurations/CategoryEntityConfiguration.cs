@@ -15,13 +15,7 @@ namespace BigonApp.WebUI.Models.Persistences.Configurations
 
             builder.Property(m => m.Id).HasColumnType("int");
             builder.Property(m => m.Name).HasColumnType("varchar").HasMaxLength(50).IsRequired();
-
-
-
-
-            builder.HasOne<Category>().WithMany().HasForeignKey(m => m.ParentId).HasPrincipalKey(m => m.Id).OnDelete(DeleteBehavior.NoAction);
-
-
+            builder.Property(m => m.ParentId).HasColumnType("int");
             builder.ConfigurAsAuditable();
 
             builder.ToTable("Category"); //burada ne ad yazilsa birbasa table yaradanda bu adda yaradacaq

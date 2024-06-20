@@ -14,8 +14,4 @@
     <ProjectReference Include="..\BigonWebUI.Infrastructure\BigonApp.Infrastructure.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Modules\CategoriesModule\Commands\" />
-  </ItemGroup>
-
 </Project>

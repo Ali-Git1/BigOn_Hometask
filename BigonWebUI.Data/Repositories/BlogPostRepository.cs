@@ -14,6 +14,7 @@ namespace BigonApp.Data.Repositories
     {
         public BlogPostRepository(DbContext db) : base(db)
         {
+
         }
     }
 }

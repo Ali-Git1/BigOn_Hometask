@@ -116,12 +116,10 @@ namespace BigonApp.Data.Migrations
                         .HasMaxLength(50)
                         .HasColumnType("varchar");
 
-                    b.Property<int>("ParentId")
+                    b.Property<int?>("ParentId")
                         .HasColumnType("int");
 
                     b.HasKey("Id");
-
-                    b.HasIndex("ParentId");
 
                     b.ToTable("Category", (string)null);
                 });
@@ -284,15 +282,6 @@ namespace BigonApp.Data.Migrations
                     b.HasOne("BigonApp.Infrastructure.Entities.Category", null)
                         .WithMany()
                         .HasForeignKey("CategoryId")
-                        .OnDelete(DeleteBehavior.NoAction)
-                        .IsRequired();
-                });
-
-            modelBuilder.Entity("BigonApp.Infrastructure.Entities.Category", b =>
-                {
-                    b.HasOne("BigonApp.Infrastructure.Entities.Category", null)
-                        .WithMany()
-                        .HasForeignKey("ParentId")
                         .OnDelete(DeleteBehavior.NoAction)
                         .IsRequired();
                 });

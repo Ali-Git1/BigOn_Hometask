@@ -20,7 +20,7 @@ namespace BigonApp.Business.Modules.TagsModule.Queries.TagsGetAllQuery
         }
         public async Task<IEnumerable<Tag>> Handle(TagsGetAllRequest request, CancellationToken cancellationToken)
         {   
-            return await _tagRepository.GetAll(c => c.DeletedBy == null);   
+            return /*await*/ _tagRepository.GetAll(c => c.DeletedBy == null);   
         }
     }
 }

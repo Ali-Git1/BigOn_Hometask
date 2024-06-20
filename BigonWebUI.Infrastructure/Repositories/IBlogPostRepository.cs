@@ -10,6 +10,6 @@ namespace BigonApp.Infrastructure.Repositories
 {
     public interface IBlogPostRepository:IRepository<BlogPost>
     {
-
+        
     }
 }

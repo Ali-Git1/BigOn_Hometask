@@ -20,8 +20,8 @@ namespace BigonApp.Business.Modules.BlogPostsModule.Queries.BlogPostGetById
         }
         public async Task<BlogPostGetByIdDto> Handle(BlogPostGetByIdRequest request, CancellationToken cancellationToken)
         {
-            var query = (from bp in await _blogPostRepository.GetAll(x => x.DeletedBy == null)
-                         join ct in await _categoryRepository.GetAll(x => x.DeletedBy == null)
+            var query = (from bp in /*await*/ _blogPostRepository.GetAll(x => x.DeletedBy == null)
+                         join ct in /*await*/ _categoryRepository.GetAll(x => x.DeletedBy == null)
                          on bp.CategoryId equals ct.Id
                          where bp.Id == request.Id
                          select new BlogPostGetByIdDto

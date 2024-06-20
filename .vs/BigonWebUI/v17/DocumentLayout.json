@@ -1,7 +1,112 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\ELViN\\source\\repos\\BigOn\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C64FD791-4DC1-459E-ABA6-152E49D31F7C}|BigonWebUI.Business\\BigonApp.Business.csproj|c:\\users\\elvin\\source\\repos\\bigon\\bigonwebui.business\\modules\\blogpostsmodule\\commands\\blogpostremove\\blogpostremoverequesthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C64FD791-4DC1-459E-ABA6-152E49D31F7C}|BigonWebUI.Business\\BigonApp.Business.csproj|solutionrelative:bigonwebui.business\\modules\\blogpostsmodule\\commands\\blogpostremove\\blogpostremoverequesthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C64FD791-4DC1-459E-ABA6-152E49D31F7C}|BigonWebUI.Business\\BigonApp.Business.csproj|c:\\users\\elvin\\source\\repos\\bigon\\bigonwebui.business\\modules\\blogpostsmodule\\queries\\blogpostgetbyid\\blogpostgetbyiddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C64FD791-4DC1-459E-ABA6-152E49D31F7C}|BigonWebUI.Business\\BigonApp.Business.csproj|solutionrelative:bigonwebui.business\\modules\\blogpostsmodule\\queries\\blogpostgetbyid\\blogpostgetbyiddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C64FD791-4DC1-459E-ABA6-152E49D31F7C}|BigonWebUI.Business\\BigonApp.Business.csproj|c:\\users\\elvin\\source\\repos\\bigon\\bigonwebui.business\\modules\\blogpostsmodule\\queries\\blogpostgetall\\blogpostgetalldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C64FD791-4DC1-459E-ABA6-152E49D31F7C}|BigonWebUI.Business\\BigonApp.Business.csproj|solutionrelative:bigonwebui.business\\modules\\blogpostsmodule\\queries\\blogpostgetall\\blogpostgetalldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C64FD791-4DC1-459E-ABA6-152E49D31F7C}|BigonWebUI.Business\\BigonApp.Business.csproj|c:\\users\\elvin\\source\\repos\\bigon\\bigonwebui.business\\modules\\categoriesmodule\\queries\\categorygetall\\categorygetallrequesthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C64FD791-4DC1-459E-ABA6-152E49D31F7C}|BigonWebUI.Business\\BigonApp.Business.csproj|solutionrelative:bigonwebui.business\\modules\\categoriesmodule\\queries\\categorygetall\\categorygetallrequesthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C64FD791-4DC1-459E-ABA6-152E49D31F7C}|BigonWebUI.Business\\BigonApp.Business.csproj|c:\\users\\elvin\\source\\repos\\bigon\\bigonwebui.business\\modules\\tagsmodule\\commands\\tagsremovecommand\\tagsremoverequesthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C64FD791-4DC1-459E-ABA6-152E49D31F7C}|BigonWebUI.Business\\BigonApp.Business.csproj|solutionrelative:bigonwebui.business\\modules\\tagsmodule\\commands\\tagsremovecommand\\tagsremoverequesthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C64FD791-4DC1-459E-ABA6-152E49D31F7C}|BigonWebUI.Business\\BigonApp.Business.csproj|c:\\users\\elvin\\source\\repos\\bigon\\bigonwebui.business\\modules\\tagsmodule\\commands\\tagsremovecommand\\tagsremoverequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C64FD791-4DC1-459E-ABA6-152E49D31F7C}|BigonWebUI.Business\\BigonApp.Business.csproj|solutionrelative:bigonwebui.business\\modules\\tagsmodule\\commands\\tagsremovecommand\\tagsremoverequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C64FD791-4DC1-459E-ABA6-152E49D31F7C}|BigonWebUI.Business\\BigonApp.Business.csproj|c:\\users\\elvin\\source\\repos\\bigon\\bigonwebui.business\\modules\\colorsmodule\\commands\\colorsremovecommand\\colorsremoverequesthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C64FD791-4DC1-459E-ABA6-152E49D31F7C}|BigonWebUI.Business\\BigonApp.Business.csproj|solutionrelative:bigonwebui.business\\modules\\colorsmodule\\commands\\colorsremovecommand\\colorsremoverequesthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C64FD791-4DC1-459E-ABA6-152E49D31F7C}|BigonWebUI.Business\\BigonApp.Business.csproj|c:\\users\\elvin\\source\\repos\\bigon\\bigonwebui.business\\modules\\colorsmodule\\queries\\colorsgetallquery\\colorsgetallrequesthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C64FD791-4DC1-459E-ABA6-152E49D31F7C}|BigonWebUI.Business\\BigonApp.Business.csproj|solutionrelative:bigonwebui.business\\modules\\colorsmodule\\queries\\colorsgetallquery\\colorsgetallrequesthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C64FD791-4DC1-459E-ABA6-152E49D31F7C}|BigonWebUI.Business\\BigonApp.Business.csproj|c:\\users\\elvin\\source\\repos\\bigon\\bigonwebui.business\\modules\\categoriesmodule\\queries\\categorygetbyid\\categorygetbyidrequesthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C64FD791-4DC1-459E-ABA6-152E49D31F7C}|BigonWebUI.Business\\BigonApp.Business.csproj|solutionrelative:bigonwebui.business\\modules\\categoriesmodule\\queries\\categorygetbyid\\categorygetbyidrequesthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C64FD791-4DC1-459E-ABA6-152E49D31F7C}|BigonWebUI.Business\\BigonApp.Business.csproj|c:\\users\\elvin\\source\\repos\\bigon\\bigonwebui.business\\modules\\categoriesmodule\\queries\\categorygetbyid\\categorygetbyidrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C64FD791-4DC1-459E-ABA6-152E49D31F7C}|BigonWebUI.Business\\BigonApp.Business.csproj|solutionrelative:bigonwebui.business\\modules\\categoriesmodule\\queries\\categorygetbyid\\categorygetbyidrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C64FD791-4DC1-459E-ABA6-152E49D31F7C}|BigonWebUI.Business\\BigonApp.Business.csproj|c:\\users\\elvin\\source\\repos\\bigon\\bigonwebui.business\\modules\\categoriesmodule\\queries\\categorygetbyid\\categorygetbyiddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C64FD791-4DC1-459E-ABA6-152E49D31F7C}|BigonWebUI.Business\\BigonApp.Business.csproj|solutionrelative:bigonwebui.business\\modules\\categoriesmodule\\queries\\categorygetbyid\\categorygetbyiddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A2A5D35-3B6B-433E-99A2-81012362E98D}|BigonWebUI.Infrastructure\\BigonApp.Infrastructure.csproj|c:\\users\\elvin\\source\\repos\\bigon\\bigonwebui.infrastructure\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A2A5D35-3B6B-433E-99A2-81012362E98D}|BigonWebUI.Infrastructure\\BigonApp.Infrastructure.csproj|solutionrelative:bigonwebui.infrastructure\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C64FD791-4DC1-459E-ABA6-152E49D31F7C}|BigonWebUI.Business\\BigonApp.Business.csproj|c:\\users\\elvin\\source\\repos\\bigon\\bigonwebui.business\\modules\\blogpostsmodule\\commands\\blogpostremove\\blogpostremoverequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C64FD791-4DC1-459E-ABA6-152E49D31F7C}|BigonWebUI.Business\\BigonApp.Business.csproj|solutionrelative:bigonwebui.business\\modules\\blogpostsmodule\\commands\\blogpostremove\\blogpostremoverequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C64FD791-4DC1-459E-ABA6-152E49D31F7C}|BigonWebUI.Business\\BigonApp.Business.csproj|c:\\users\\elvin\\source\\repos\\bigon\\bigonwebui.business\\modules\\categoriesmodule\\queries\\categorygetall\\categoriesgetalldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C64FD791-4DC1-459E-ABA6-152E49D31F7C}|BigonWebUI.Business\\BigonApp.Business.csproj|solutionrelative:bigonwebui.business\\modules\\categoriesmodule\\queries\\categorygetall\\categoriesgetalldto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C64FD791-4DC1-459E-ABA6-152E49D31F7C}|BigonWebUI.Business\\BigonApp.Business.csproj|c:\\users\\elvin\\source\\repos\\bigon\\bigonwebui.business\\modules\\categoriesmodule\\commands\\categoriesremove\\categoriesremoverequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C64FD791-4DC1-459E-ABA6-152E49D31F7C}|BigonWebUI.Business\\BigonApp.Business.csproj|solutionrelative:bigonwebui.business\\modules\\categoriesmodule\\commands\\categoriesremove\\categoriesremoverequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10AE55ED-34F1-4770-925E-D17968A4103E}|BigonWebUI\\BigonApp.WebUI.csproj|c:\\users\\elvin\\source\\repos\\bigon\\bigonwebui\\areas\\admin\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10AE55ED-34F1-4770-925E-D17968A4103E}|BigonWebUI\\BigonApp.WebUI.csproj|solutionrelative:bigonwebui\\areas\\admin\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10AE55ED-34F1-4770-925E-D17968A4103E}|BigonWebUI\\BigonApp.WebUI.csproj|c:\\users\\elvin\\source\\repos\\bigon\\bigonwebui\\areas\\admin\\controllers\\blogpostscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10AE55ED-34F1-4770-925E-D17968A4103E}|BigonWebUI\\BigonApp.WebUI.csproj|solutionrelative:bigonwebui\\areas\\admin\\controllers\\blogpostscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C64FD791-4DC1-459E-ABA6-152E49D31F7C}|BigonWebUI.Business\\BigonApp.Business.csproj|c:\\users\\elvin\\source\\repos\\bigon\\bigonwebui.business\\modules\\categoriesmodule\\commands\\categoryadd\\categoryaddrequesthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C64FD791-4DC1-459E-ABA6-152E49D31F7C}|BigonWebUI.Business\\BigonApp.Business.csproj|solutionrelative:bigonwebui.business\\modules\\categoriesmodule\\commands\\categoryadd\\categoryaddrequesthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C64FD791-4DC1-459E-ABA6-152E49D31F7C}|BigonWebUI.Business\\BigonApp.Business.csproj|c:\\users\\elvin\\source\\repos\\bigon\\bigonwebui.business\\modules\\categoriesmodule\\commands\\categoryadd\\categoryaddrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C64FD791-4DC1-459E-ABA6-152E49D31F7C}|BigonWebUI.Business\\BigonApp.Business.csproj|solutionrelative:bigonwebui.business\\modules\\categoriesmodule\\commands\\categoryadd\\categoryaddrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10AE55ED-34F1-4770-925E-D17968A4103E}|BigonWebUI\\BigonApp.WebUI.csproj|c:\\users\\elvin\\source\\repos\\bigon\\bigonwebui\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{10AE55ED-34F1-4770-925E-D17968A4103E}|BigonWebUI\\BigonApp.WebUI.csproj|solutionrelative:bigonwebui\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10AE55ED-34F1-4770-925E-D17968A4103E}|BigonWebUI\\BigonApp.WebUI.csproj|c:\\users\\elvin\\source\\repos\\bigon\\bigonwebui\\areas\\admin\\controllers\\tagscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10AE55ED-34F1-4770-925E-D17968A4103E}|BigonWebUI\\BigonApp.WebUI.csproj|solutionrelative:bigonwebui\\areas\\admin\\controllers\\tagscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10AE55ED-34F1-4770-925E-D17968A4103E}|BigonWebUI\\BigonApp.WebUI.csproj|c:\\users\\elvin\\source\\repos\\bigon\\bigonwebui\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10AE55ED-34F1-4770-925E-D17968A4103E}|BigonWebUI\\BigonApp.WebUI.csproj|solutionrelative:bigonwebui\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10AE55ED-34F1-4770-925E-D17968A4103E}|BigonWebUI\\BigonApp.WebUI.csproj|c:\\users\\elvin\\source\\repos\\bigon\\bigonwebui\\areas\\admin\\controllers\\colorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10AE55ED-34F1-4770-925E-D17968A4103E}|BigonWebUI\\BigonApp.WebUI.csproj|solutionrelative:bigonwebui\\areas\\admin\\controllers\\colorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10AE55ED-34F1-4770-925E-D17968A4103E}|BigonWebUI\\BigonApp.WebUI.csproj|c:\\users\\elvin\\source\\repos\\bigon\\bigonwebui\\areas\\admin\\views\\categories\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{10AE55ED-34F1-4770-925E-D17968A4103E}|BigonWebUI\\BigonApp.WebUI.csproj|solutionrelative:bigonwebui\\areas\\admin\\views\\categories\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10AE55ED-34F1-4770-925E-D17968A4103E}|BigonWebUI\\BigonApp.WebUI.csproj|c:\\users\\elvin\\source\\repos\\bigon\\bigonwebui\\areas\\admin\\views\\categories\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{10AE55ED-34F1-4770-925E-D17968A4103E}|BigonWebUI\\BigonApp.WebUI.csproj|solutionrelative:bigonwebui\\areas\\admin\\views\\categories\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C64FD791-4DC1-459E-ABA6-152E49D31F7C}|BigonWebUI.Business\\BigonApp.Business.csproj|c:\\users\\elvin\\source\\repos\\bigon\\bigonwebui.business\\modules\\blogpostsmodule\\queries\\blogpostgetbyid\\blogpostgetbyidrequesthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C64FD791-4DC1-459E-ABA6-152E49D31F7C}|BigonWebUI.Business\\BigonApp.Business.csproj|solutionrelative:bigonwebui.business\\modules\\blogpostsmodule\\queries\\blogpostgetbyid\\blogpostgetbyidrequesthandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +114,340 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BlogPostGetByIdDto.cs",
+              "DocumentMoniker": "C:\\Users\\ELViN\\source\\repos\\BigOn\\BigonWebUI.Business\\Modules\\BlogPostsModule\\Queries\\BlogPostGetById\\BlogPostGetByIdDto.cs",
+              "RelativeDocumentMoniker": "BigonWebUI.Business\\Modules\\BlogPostsModule\\Queries\\BlogPostGetById\\BlogPostGetByIdDto.cs",
+              "ToolTip": "C:\\Users\\ELViN\\source\\repos\\BigOn\\BigonWebUI.Business\\Modules\\BlogPostsModule\\Queries\\BlogPostGetById\\BlogPostGetByIdDto.cs",
+              "RelativeToolTip": "BigonWebUI.Business\\Modules\\BlogPostsModule\\Queries\\BlogPostGetById\\BlogPostGetByIdDto.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T19:44:47.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BlogPostGetAllDto.cs",
+              "DocumentMoniker": "C:\\Users\\ELViN\\source\\repos\\BigOn\\BigonWebUI.Business\\Modules\\BlogPostsModule\\Queries\\BlogPostGetAll\\BlogPostGetAllDto.cs",
+              "RelativeDocumentMoniker": "BigonWebUI.Business\\Modules\\BlogPostsModule\\Queries\\BlogPostGetAll\\BlogPostGetAllDto.cs",
+              "ToolTip": "C:\\Users\\ELViN\\source\\repos\\BigOn\\BigonWebUI.Business\\Modules\\BlogPostsModule\\Queries\\BlogPostGetAll\\BlogPostGetAllDto.cs",
+              "RelativeToolTip": "BigonWebUI.Business\\Modules\\BlogPostsModule\\Queries\\BlogPostGetAll\\BlogPostGetAllDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T19:44:42.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TagsRemoveRequestHandler.cs",
+              "DocumentMoniker": "C:\\Users\\ELViN\\source\\repos\\BigOn\\BigonWebUI.Business\\Modules\\TagsModule\\Commands\\TagsRemoveCommand\\TagsRemoveRequestHandler.cs",
+              "RelativeDocumentMoniker": "BigonWebUI.Business\\Modules\\TagsModule\\Commands\\TagsRemoveCommand\\TagsRemoveRequestHandler.cs",
+              "ToolTip": "C:\\Users\\ELViN\\source\\repos\\BigOn\\BigonWebUI.Business\\Modules\\TagsModule\\Commands\\TagsRemoveCommand\\TagsRemoveRequestHandler.cs",
+              "RelativeToolTip": "BigonWebUI.Business\\Modules\\TagsModule\\Commands\\TagsRemoveCommand\\TagsRemoveRequestHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T19:43:06.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BlogPostRemoveRequestHandler.cs",
+              "DocumentMoniker": "C:\\Users\\ELViN\\source\\repos\\BigOn\\BigonWebUI.Business\\Modules\\BlogPostsModule\\Commands\\BlogPostRemove\\BlogPostRemoveRequestHandler.cs",
+              "RelativeDocumentMoniker": "BigonWebUI.Business\\Modules\\BlogPostsModule\\Commands\\BlogPostRemove\\BlogPostRemoveRequestHandler.cs",
+              "ToolTip": "C:\\Users\\ELViN\\source\\repos\\BigOn\\BigonWebUI.Business\\Modules\\BlogPostsModule\\Commands\\BlogPostRemove\\BlogPostRemoveRequestHandler.cs",
+              "RelativeToolTip": "BigonWebUI.Business\\Modules\\BlogPostsModule\\Commands\\BlogPostRemove\\BlogPostRemoveRequestHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADAAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T10:18:35.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TagsRemoveRequest.cs",
+              "DocumentMoniker": "C:\\Users\\ELViN\\source\\repos\\BigOn\\BigonWebUI.Business\\Modules\\TagsModule\\Commands\\TagsRemoveCommand\\TagsRemoveRequest.cs",
+              "RelativeDocumentMoniker": "BigonWebUI.Business\\Modules\\TagsModule\\Commands\\TagsRemoveCommand\\TagsRemoveRequest.cs",
+              "ToolTip": "C:\\Users\\ELViN\\source\\repos\\BigOn\\BigonWebUI.Business\\Modules\\TagsModule\\Commands\\TagsRemoveCommand\\TagsRemoveRequest.cs",
+              "RelativeToolTip": "BigonWebUI.Business\\Modules\\TagsModule\\Commands\\TagsRemoveCommand\\TagsRemoveRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T19:40:37.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CategoryGetAllRequestHandler.cs",
+              "DocumentMoniker": "C:\\Users\\ELViN\\source\\repos\\BigOn\\BigonWebUI.Business\\Modules\\CategoriesModule\\Queries\\CategoryGetAll\\CategoryGetAllRequestHandler.cs",
+              "RelativeDocumentMoniker": "BigonWebUI.Business\\Modules\\CategoriesModule\\Queries\\CategoryGetAll\\CategoryGetAllRequestHandler.cs",
+              "ToolTip": "C:\\Users\\ELViN\\source\\repos\\BigOn\\BigonWebUI.Business\\Modules\\CategoriesModule\\Queries\\CategoryGetAll\\CategoryGetAllRequestHandler.cs",
+              "RelativeToolTip": "BigonWebUI.Business\\Modules\\CategoriesModule\\Queries\\CategoryGetAll\\CategoryGetAllRequestHandler.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T06:33:02.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ColorsRemoveRequestHandler.cs",
+              "DocumentMoniker": "C:\\Users\\ELViN\\source\\repos\\BigOn\\BigonWebUI.Business\\Modules\\ColorsModule\\Commands\\ColorsRemoveCommand\\ColorsRemoveRequestHandler.cs",
+              "RelativeDocumentMoniker": "BigonWebUI.Business\\Modules\\ColorsModule\\Commands\\ColorsRemoveCommand\\ColorsRemoveRequestHandler.cs",
+              "ToolTip": "C:\\Users\\ELViN\\source\\repos\\BigOn\\BigonWebUI.Business\\Modules\\ColorsModule\\Commands\\ColorsRemoveCommand\\ColorsRemoveRequestHandler.cs",
+              "RelativeToolTip": "BigonWebUI.Business\\Modules\\ColorsModule\\Commands\\ColorsRemoveCommand\\ColorsRemoveRequestHandler.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAUwBwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T10:18:42.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ColorsGetAllRequestHandler.cs",
+              "DocumentMoniker": "C:\\Users\\ELViN\\source\\repos\\BigOn\\BigonWebUI.Business\\Modules\\ColorsModule\\Queries\\ColorsGetAllQuery\\ColorsGetAllRequestHandler.cs",
+              "RelativeDocumentMoniker": "BigonWebUI.Business\\Modules\\ColorsModule\\Queries\\ColorsGetAllQuery\\ColorsGetAllRequestHandler.cs",
+              "ToolTip": "C:\\Users\\ELViN\\source\\repos\\BigOn\\BigonWebUI.Business\\Modules\\ColorsModule\\Queries\\ColorsGetAllQuery\\ColorsGetAllRequestHandler.cs",
+              "RelativeToolTip": "BigonWebUI.Business\\Modules\\ColorsModule\\Queries\\ColorsGetAllQuery\\ColorsGetAllRequestHandler.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T19:38:38.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CategoryGetByIdRequestHandler.cs",
+              "DocumentMoniker": "C:\\Users\\ELViN\\source\\repos\\BigOn\\BigonWebUI.Business\\Modules\\CategoriesModule\\Queries\\CategoryGetById\\CategoryGetByIdRequestHandler.cs",
+              "RelativeDocumentMoniker": "BigonWebUI.Business\\Modules\\CategoriesModule\\Queries\\CategoryGetById\\CategoryGetByIdRequestHandler.cs",
+              "ToolTip": "C:\\Users\\ELViN\\source\\repos\\BigOn\\BigonWebUI.Business\\Modules\\CategoriesModule\\Queries\\CategoryGetById\\CategoryGetByIdRequestHandler.cs",
+              "RelativeToolTip": "BigonWebUI.Business\\Modules\\CategoriesModule\\Queries\\CategoryGetById\\CategoryGetByIdRequestHandler.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAAB0AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T11:28:08.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CategoryGetByIdRequest.cs",
+              "DocumentMoniker": "C:\\Users\\ELViN\\source\\repos\\BigOn\\BigonWebUI.Business\\Modules\\CategoriesModule\\Queries\\CategoryGetById\\CategoryGetByIdRequest.cs",
+              "RelativeDocumentMoniker": "BigonWebUI.Business\\Modules\\CategoriesModule\\Queries\\CategoryGetById\\CategoryGetByIdRequest.cs",
+              "ToolTip": "C:\\Users\\ELViN\\source\\repos\\BigOn\\BigonWebUI.Business\\Modules\\CategoriesModule\\Queries\\CategoryGetById\\CategoryGetByIdRequest.cs",
+              "RelativeToolTip": "BigonWebUI.Business\\Modules\\CategoriesModule\\Queries\\CategoryGetById\\CategoryGetByIdRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T19:38:07.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CategoryGetByIdDto.cs",
+              "DocumentMoniker": "C:\\Users\\ELViN\\source\\repos\\BigOn\\BigonWebUI.Business\\Modules\\CategoriesModule\\Queries\\CategoryGetById\\CategoryGetByIdDto.cs",
+              "RelativeDocumentMoniker": "BigonWebUI.Business\\Modules\\CategoriesModule\\Queries\\CategoryGetById\\CategoryGetByIdDto.cs",
+              "ToolTip": "C:\\Users\\ELViN\\source\\repos\\BigOn\\BigonWebUI.Business\\Modules\\CategoriesModule\\Queries\\CategoryGetById\\CategoryGetByIdDto.cs",
+              "RelativeToolTip": "BigonWebUI.Business\\Modules\\CategoriesModule\\Queries\\CategoryGetById\\CategoryGetByIdDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T11:25:26.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\ELViN\\source\\repos\\BigOn\\BigonWebUI.Infrastructure\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "BigonWebUI.Infrastructure\\Entities\\Category.cs",
+              "ToolTip": "C:\\Users\\ELViN\\source\\repos\\BigOn\\BigonWebUI.Infrastructure\\Entities\\Category.cs",
+              "RelativeToolTip": "BigonWebUI.Infrastructure\\Entities\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T06:41:35.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BlogPostRemoveRequest.cs",
+              "DocumentMoniker": "C:\\Users\\ELViN\\source\\repos\\BigOn\\BigonWebUI.Business\\Modules\\BlogPostsModule\\Commands\\BlogPostRemove\\BlogPostRemoveRequest.cs",
+              "RelativeDocumentMoniker": "BigonWebUI.Business\\Modules\\BlogPostsModule\\Commands\\BlogPostRemove\\BlogPostRemoveRequest.cs",
+              "ToolTip": "C:\\Users\\ELViN\\source\\repos\\BigOn\\BigonWebUI.Business\\Modules\\BlogPostsModule\\Commands\\BlogPostRemove\\BlogPostRemoveRequest.cs",
+              "RelativeToolTip": "BigonWebUI.Business\\Modules\\BlogPostsModule\\Commands\\BlogPostRemove\\BlogPostRemoveRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T19:32:39.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CategoriesGetAllDto.cs",
+              "DocumentMoniker": "C:\\Users\\ELViN\\source\\repos\\BigOn\\BigonWebUI.Business\\Modules\\CategoriesModule\\Queries\\CategoryGetAll\\CategoriesGetAllDto.cs",
+              "RelativeDocumentMoniker": "BigonWebUI.Business\\Modules\\CategoriesModule\\Queries\\CategoryGetAll\\CategoriesGetAllDto.cs",
+              "ToolTip": "C:\\Users\\ELViN\\source\\repos\\BigOn\\BigonWebUI.Business\\Modules\\CategoriesModule\\Queries\\CategoryGetAll\\CategoriesGetAllDto.cs",
+              "RelativeToolTip": "BigonWebUI.Business\\Modules\\CategoriesModule\\Queries\\CategoryGetAll\\CategoriesGetAllDto.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAAYAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T19:27:47.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CategoriesRemoveRequest.cs",
+              "DocumentMoniker": "C:\\Users\\ELViN\\source\\repos\\BigOn\\BigonWebUI.Business\\Modules\\CategoriesModule\\Commands\\CategoriesRemove\\CategoriesRemoveRequest.cs",
+              "RelativeDocumentMoniker": "BigonWebUI.Business\\Modules\\CategoriesModule\\Commands\\CategoriesRemove\\CategoriesRemoveRequest.cs",
+              "ToolTip": "C:\\Users\\ELViN\\source\\repos\\BigOn\\BigonWebUI.Business\\Modules\\CategoriesModule\\Commands\\CategoriesRemove\\CategoriesRemoveRequest.cs",
+              "RelativeToolTip": "BigonWebUI.Business\\Modules\\CategoriesModule\\Commands\\CategoriesRemove\\CategoriesRemoveRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T19:24:16.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "BlogPostsController.cs",
+              "DocumentMoniker": "C:\\Users\\ELViN\\source\\repos\\BigOn\\BigonWebUI\\Areas\\Admin\\Controllers\\BlogPostsController.cs",
+              "RelativeDocumentMoniker": "BigonWebUI\\Areas\\Admin\\Controllers\\BlogPostsController.cs",
+              "ToolTip": "C:\\Users\\ELViN\\source\\repos\\BigOn\\BigonWebUI\\Areas\\Admin\\Controllers\\BlogPostsController.cs",
+              "RelativeToolTip": "BigonWebUI\\Areas\\Admin\\Controllers\\BlogPostsController.cs",
+              "ViewState": "AQIAAE0AAAAAAAAAAAAAAF8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T09:44:55.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\ELViN\\source\\repos\\BigOn\\BigonWebUI\\Areas\\Admin\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "BigonWebUI\\Areas\\Admin\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\ELViN\\source\\repos\\BigOn\\BigonWebUI\\Areas\\Admin\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "BigonWebUI\\Areas\\Admin\\Controllers\\CategoriesController.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAADUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T08:32:20.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CategoryAddRequestHandler.cs",
+              "DocumentMoniker": "C:\\Users\\ELViN\\source\\repos\\BigOn\\BigonWebUI.Business\\Modules\\CategoriesModule\\Commands\\CategoryAdd\\CategoryAddRequestHandler.cs",
+              "RelativeDocumentMoniker": "BigonWebUI.Business\\Modules\\CategoriesModule\\Commands\\CategoryAdd\\CategoryAddRequestHandler.cs",
+              "ToolTip": "C:\\Users\\ELViN\\source\\repos\\BigOn\\BigonWebUI.Business\\Modules\\CategoriesModule\\Commands\\CategoryAdd\\CategoryAddRequestHandler.cs",
+              "RelativeToolTip": "BigonWebUI.Business\\Modules\\CategoriesModule\\Commands\\CategoryAdd\\CategoryAddRequestHandler.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABgAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T10:48:30.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CategoryAddRequest.cs",
+              "DocumentMoniker": "C:\\Users\\ELViN\\source\\repos\\BigOn\\BigonWebUI.Business\\Modules\\CategoriesModule\\Commands\\CategoryAdd\\CategoryAddRequest.cs",
+              "RelativeDocumentMoniker": "BigonWebUI.Business\\Modules\\CategoriesModule\\Commands\\CategoryAdd\\CategoryAddRequest.cs",
+              "ToolTip": "C:\\Users\\ELViN\\source\\repos\\BigOn\\BigonWebUI.Business\\Modules\\CategoriesModule\\Commands\\CategoryAdd\\CategoryAddRequest.cs",
+              "RelativeToolTip": "BigonWebUI.Business\\Modules\\CategoriesModule\\Commands\\CategoryAdd\\CategoryAddRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T10:46:57.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ColorController.cs",
+              "DocumentMoniker": "C:\\Users\\ELViN\\source\\repos\\BigOn\\BigonWebUI\\Areas\\Admin\\Controllers\\ColorController.cs",
+              "RelativeDocumentMoniker": "BigonWebUI\\Areas\\Admin\\Controllers\\ColorController.cs",
+              "ToolTip": "C:\\Users\\ELViN\\source\\repos\\BigOn\\BigonWebUI\\Areas\\Admin\\Controllers\\ColorController.cs",
+              "RelativeToolTip": "BigonWebUI\\Areas\\Admin\\Controllers\\ColorController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T09:45:04.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ELViN\\source\\repos\\BigOn\\BigonWebUI\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "BigonWebUI\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ELViN\\source\\repos\\BigOn\\BigonWebUI\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "BigonWebUI\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACYAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-14T15:42:27.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\ELViN\\source\\repos\\BigOn\\BigonWebUI\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "BigonWebUI\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\ELViN\\source\\repos\\BigOn\\BigonWebUI\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "BigonWebUI\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T09:45:06.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "TagsController.cs",
+              "DocumentMoniker": "C:\\Users\\ELViN\\source\\repos\\BigOn\\BigonWebUI\\Areas\\Admin\\Controllers\\TagsController.cs",
+              "RelativeDocumentMoniker": "BigonWebUI\\Areas\\Admin\\Controllers\\TagsController.cs",
+              "ToolTip": "C:\\Users\\ELViN\\source\\repos\\BigOn\\BigonWebUI\\Areas\\Admin\\Controllers\\TagsController.cs",
+              "RelativeToolTip": "BigonWebUI\\Areas\\Admin\\Controllers\\TagsController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T09:45:08.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ELViN\\source\\repos\\BigOn\\BigonWebUI\\Areas\\Admin\\Views\\Categories\\Create.cshtml",
+              "RelativeDocumentMoniker": "BigonWebUI\\Areas\\Admin\\Views\\Categories\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ELViN\\source\\repos\\BigOn\\BigonWebUI\\Areas\\Admin\\Views\\Categories\\Create.cshtml",
+              "RelativeToolTip": "BigonWebUI\\Areas\\Admin\\Views\\Categories\\Create.cshtml",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAAAkAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-15T11:01:05.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\ELViN\\source\\repos\\BigOn\\BigonWebUI\\Areas\\Admin\\Views\\Categories\\Details.cshtml",
+              "RelativeDocumentMoniker": "BigonWebUI\\Areas\\Admin\\Views\\Categories\\Details.cshtml",
+              "ToolTip": "C:\\Users\\ELViN\\source\\repos\\BigOn\\BigonWebUI\\Areas\\Admin\\Views\\Categories\\Details.cshtml",
+              "RelativeToolTip": "BigonWebUI\\Areas\\Admin\\Views\\Categories\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-15T11:43:48.507Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "BlogPostGetByIdRequestHandler.cs",
+              "DocumentMoniker": "C:\\Users\\ELViN\\source\\repos\\BigOn\\BigonWebUI.Business\\Modules\\BlogPostsModule\\Queries\\BlogPostGetById\\BlogPostGetByIdRequestHandler.cs",
+              "RelativeDocumentMoniker": "BigonWebUI.Business\\Modules\\BlogPostsModule\\Queries\\BlogPostGetById\\BlogPostGetByIdRequestHandler.cs",
+              "ToolTip": "C:\\Users\\ELViN\\source\\repos\\BigOn\\BigonWebUI.Business\\Modules\\BlogPostsModule\\Queries\\BlogPostGetById\\BlogPostGetByIdRequestHandler.cs",
+              "RelativeToolTip": "BigonWebUI.Business\\Modules\\BlogPostsModule\\Queries\\BlogPostGetById\\BlogPostGetByIdRequestHandler.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAewBcAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T10:17:57.378Z"
             }
           ]
         }

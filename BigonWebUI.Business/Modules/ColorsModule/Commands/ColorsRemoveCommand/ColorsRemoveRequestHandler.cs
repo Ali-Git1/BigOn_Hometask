@@ -24,7 +24,7 @@ namespace BigonApp.Business.Modules.ColorsModule.Commands.ColorsRemoveCommand
 
             _colorRepository.Remove(color);
 
-            return await _colorRepository.GetAll(x => x.DeletedBy == null);
+            return /*await*/ _colorRepository.GetAll(x => x.DeletedBy == null);
         }
     }
 }

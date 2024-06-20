@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace BigonApp.Business.Modules.BlogPostsModule.Queries.BlogPostGetAll
 {
-    public class BlogPostGetAllDto
+    public class CategoriesGetAllDto
     {
         public int Id { get; set; }
         public string Title { get; set; }

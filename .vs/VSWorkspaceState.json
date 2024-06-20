@@ -4,14 +4,16 @@
     "\\BigonWebUI",
     "\\BigonWebUI.Business",
     "\\BigonWebUI.Business\\Modules",
-    "\\BigonWebUI.Business\\Modules\\BlogPostsModule",
-    "\\BigonWebUI.Business\\Modules\\BlogPostsModule\\Commands",
-    "\\BigonWebUI.Business\\Modules\\BlogPostsModule\\Commands\\BlogPostEdit",
+    "\\BigonWebUI.Business\\Modules\\CategoriesModule",
+    "\\BigonWebUI.Business\\Modules\\CategoriesModule\\Queries",
+    "\\BigonWebUI.Business\\Modules\\CategoriesModule\\Queries\\CategoryGetById",
     "\\BigonWebUI\\Areas",
     "\\BigonWebUI\\Areas\\Admin",
+    "\\BigonWebUI\\Areas\\Admin\\Controllers",
     "\\BigonWebUI\\Areas\\Admin\\Views",
+    "\\BigonWebUI\\Areas\\Admin\\Views\\Categories",
     "\\BigonWebUI\\Areas\\Admin\\Views\\Tags"
   ],
-  "SelectedNode": "\\BigonWebUI.Business\\Modules\\BlogPostsModule\\Commands\\BlogPostEdit\\BlogPostEditRequestHandler.cs",
+  "SelectedNode": "\\BigonWebUI\\Areas\\Admin\\Views\\Categories\\Index.cshtml",
   "PreviewInSolutionExplorer": false
 }
